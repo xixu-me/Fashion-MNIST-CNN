@@ -18,7 +18,6 @@ This project implements a CNN model to classify fashion items from the Fashion-M
 ## Project Structure
 
 ```plaintext
-
 .
 ├── main.py             # Main execution script
 ├── src/
@@ -29,7 +28,6 @@ This project implements a CNN model to classify fashion items from the Fashion-M
 │   └── visualize.py    # Visualization functions
 ├── models/             # Saved model checkpoints
 └── results/            # Training plots and visualizations
-
 ```
 
 ## Installation
