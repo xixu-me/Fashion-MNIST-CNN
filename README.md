@@ -35,8 +35,8 @@ This project implements a CNN model to classify fashion items from the Fashion-M
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/fashion-mnist-classification.git
-    cd fashion-mnist-classification
+    git clone https://github.com/xixu-me/Fashion-MNIST-CNN.git
+    cd Fashion-MNIST-CNN
     ```
 
 2. Install dependencies:
